@@ -4,7 +4,7 @@ I am an IT professional with a solid background in Technical Support and System 
 
 - 📍 Based in: Pune District, Maharashtra, India 
 - 📧 Contact: minaljibhkate06@gmail.com
-- 💼 Open to: Full-time roles and internship opportunities 
+- 💼 Open to: Full-time roles  
 
 ---
 
