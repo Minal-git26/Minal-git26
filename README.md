@@ -11,7 +11,7 @@ I am an IT professional with a solid background in Technical Support and System 
 ### 🛠️ Core Specializations
 * **Operating Systems:** Linux (Ubuntu, Debian, Kali), Windows Server
 * **Infrastructure & Automation:** CI/CD Pipelines, Infrastructure as Code (IaC), Containerization 
-* **Core Networking:** TCP/IP, DNS, DHCP, VPN, Load Balancing [cite: 13]
+* **Core Networking:** TCP/IP, DNS, DHCP, VPN, Load Balancing 
 * **Security & Monitoring:** Vulnerability scanning, system monitoring, and root cause analysis 
 
 ---
@@ -20,11 +20,11 @@ I am an IT professional with a solid background in Technical Support and System 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Cloud & OS** | AWS ], Linux (Ubuntu/Debian/Kali) , Windows Server  |
-| **CI/CD & Automation** | [cite_start]Jenkins , GitHub Actions , Azure DevOps Pipelines , Ansible  |
-| **Containers & Orchestration**| [cite_start]Docker , Kubernetes (GKE) , Argo CD  |
+| **Cloud & OS** | AWS , Linux (Ubuntu/Debian/Kali) , Windows Server  |
+| **CI/CD & Automation** | Jenkins , GitHub Actions , Azure DevOps Pipelines , Ansible  |
+| **Containers & Orchestration**| Docker , Kubernetes (GKE) , Argo CD  |
 | **Infrastructure as Code** | Terraform  |
-| **Monitoring & Security** | Prometheus , Grafana , Trivy [, SonarQube |
+| **Monitoring & Security** | Prometheus , Grafana , Trivy , SonarQube |
 
 ---
 
